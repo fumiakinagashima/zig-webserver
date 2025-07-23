@@ -1,2 +1,3 @@
 # zig-webserver
-A primitive web server by zig.
+This repository is for learning Zig programming language.
+
